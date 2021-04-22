@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [10.0.1](https://github.com/dlyushukov/ng2-idle/compare/v10.0.0...v10.0.1) (2021-04-22)
+
+
+### Bug Fixes
+
+* **idle,timeout:** countdown idle and timeout based on time ([db87c4c](https://github.com/dlyushukov/ng2-idle/commit/db87c4c1fc30d511ed2f9addcf16108b4a78a0b7))
+
+
+
+
+
 # [10.0.0](https://github.com/moribvndvs/ng2-idle/compare/v9.0.0-beta.1...v10.0.0) (2020-09-10)
 
 

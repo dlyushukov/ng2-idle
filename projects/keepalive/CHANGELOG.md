@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [10.0.1](https://github.com/dlyushukov/ng2-idle/compare/v10.0.0...v10.0.1) (2021-04-22)
+
+**Note:** Version bump only for package @ng-idle/keepalive
+
+
+
+
+
 # [10.0.0](https://github.com/HackedByChinese/ng2-idle/compare/v9.0.0-beta.1...v10.0.0) (2020-09-10)
 
 
